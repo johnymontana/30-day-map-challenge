@@ -46,3 +46,14 @@ Finding the perfect Christmas tree using aerial imagery in QGIS and Forest Servi
 * Analysis using [SedonaDB](https://wherobots.com/sedona-db/) on [Wherobots Cloud](https://wherobots.com)
 * Map created using QGIS
 * Code and tutorial: [07-navigation.ipynb](notebooks/07-navigation.ipynb)
+
+## 13. Choropleth
+
+![](img/choropleth/delta.png)
+
+Visualizing the change in home value in the US over the last 5 years.
+
+* Data from Zillow and Natural Earth
+* Analysis using [SedonaDB](https://wherobots.com/sedona-db/) on [Wherobots Cloud](https://wherobots.com)
+* Map created using Python's matplotlib
+* Code and tutorial: [13-choropleth.ipynb](notebooks/13-choropleth.ipynb)
